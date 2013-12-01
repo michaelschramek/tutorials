@@ -1,0 +1,1 @@
+# Ruby for Rails Hints and Snippets
