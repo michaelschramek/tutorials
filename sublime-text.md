@@ -7,6 +7,7 @@
 - DocBlockr
 - SidebarEnhancements
 - SublimeLinter
+- Better Coffeescript
 
 #Theme
 - THEME – SODA
