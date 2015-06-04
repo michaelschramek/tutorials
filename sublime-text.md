@@ -6,6 +6,7 @@
 - Emmet
 - DocBlockr
 - SidebarEnhancements
+- SublimeLinter
 
 #Theme
 - THEME – SODA
