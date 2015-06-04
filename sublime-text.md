@@ -7,6 +7,7 @@
 - DocBlockr
 - SidebarEnhancements
 - SublimeLinter
+- EditorConfig
 - Better Coffeescript
 
 #Theme
