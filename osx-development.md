@@ -18,6 +18,10 @@ $ git config --global user.email "your_name@domain.com"
 # Install NodeJS
 * ( brew install node) 
 * vs. NVM
+* npm install -g gulp
+* npm install -g jspm
+* jspm registry config github
+* Generate new personal Github token and use it for jspm
 
 # Install MySQL
 brew install mysql
