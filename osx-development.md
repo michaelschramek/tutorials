@@ -1,6 +1,8 @@
 # Install Xcode
 * Xcode from AppStore
-* in Terminal: xcode-select --install
+* in Terminal: 
+xcode-select --install
+sudo xcodebuild -license or start Xcode
 
 # Install Homebrew
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
