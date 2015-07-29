@@ -17,6 +17,7 @@ brew install mysql
 * download sublime text
 * Alias for Terminal
 alias sub="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
+* look at https://github.com/michaelschramek/tutorials/blob/master/sublime-text.md
 
 
 
